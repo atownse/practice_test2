@@ -1,0 +1,15 @@
+Class: phone
+
+Attributes:
+
+screenSize: (integer);
+backColor: (string);
+hasCase: (boolean);
+currentSoftware: (string);
+volume: (integer);
+
+Methods:
+changeScreenSize: (changes screen viewing size);
+paintBack: (changes backColor to new string);
+updateSoftware: (changes currentSoftware to latest update);
+volumeDial: (increase or decrease volume integer);

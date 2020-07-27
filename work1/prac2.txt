@@ -1,0 +1,15 @@
+Instance: iPhone
+
+Attributes:
+
+screenSize: (5);
+backColor: ("black");
+hasCase: (true);
+currentSoftware: ("iOS 13.5");
+volume: (9);
+
+Methods:
+changeScreenSize: (4.5);
+paintBack: (black and yellow);
+updateSoftware: ("iOS 13.6");
+volumeDial: (16);
